@@ -1,1 +1,1 @@
-- Working within Enterise Capabilities on the Database Technologies team 
+- Member of Database Technologies team, mainly focused on Snowflake and MonetDB
