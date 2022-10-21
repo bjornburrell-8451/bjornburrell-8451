@@ -1,1 +1,4 @@
-- Member of Database Technologies team, mainly focused on Snowflake and MonetDB
+- Member of -> Database Technologies  
+- Mainly deal with -> Snowflake and MonetDB 
+- Currently learning -> Terraform, Ansible, SQL, Python, Javascript
+- You can find me -> at Waffle House 
